@@ -93,9 +93,10 @@ The project also emphasizes the importance of **documentation, reproducibility, 
 
 ---
 
-##🔒 Note about the data
+## 🔒 Note about the data
 The data used in this project are fictitious, anonymized or from public sources and have been used exclusively for demonstration and portfolio purposes.
 
 ---
-##👩‍💻 About
+
+## 👩‍💻 About
 Project developed by Vanessa as part of the professional portfolio in the area of data analysis and Business Intelligence.

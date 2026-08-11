@@ -91,3 +91,11 @@ This project is part of a data analytics portfolio and demonstrates the use of *
 
 The project also emphasizes the importance of **documentation, reproducibility, and maintainability** in analytical solutions.
 
+---
+
+##🔒 Note about the data
+The data used in this project are fictitious, anonymized or from public sources and have been used exclusively for demonstration and portfolio purposes.
+
+---
+##👩‍💻 About
+Project developed by Vanessa as part of the professional portfolio in the area of data analysis and Business Intelligence.

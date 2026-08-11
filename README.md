@@ -74,7 +74,7 @@ This project was developed using:
 
 ## 📂 Repository Structure
 
-Em construção
+On-going
 
 ## 🔎 Business Questions
 
